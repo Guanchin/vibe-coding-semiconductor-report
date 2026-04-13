@@ -117,6 +117,3 @@
 - AI 已能有效協助完成資料分析與研究整合流程。
 - 半導體公司在產業鏈中的位置，會影響其股價特性與市場評價方式。
 - Vibe Coding 讓研究流程更系統化，也提升了整體效率與可重現性。  [oai_citation:20‡生成式 AI期中報告_(2).pdf](sediment://file_0000000090687206bd71372e965f1ce9)
-
-## 專案連結
-- GitHub: `https://github.com/Guanchin/vibe-coding-semiconductor-report`  [oai_citation:21‡生成式 AI期中報告_(2).pdf](sediment://file_0000000090687206bd71372e965f1ce9)
